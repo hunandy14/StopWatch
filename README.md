@@ -3,7 +3,7 @@ PowerShell 計時器物件
 
 ## 快速使用
 ```ps1
-irm biy.ly/chg_StopWatch|idx
+irm bit.ly/chg_StopWatch|idx
 StopWatch{
     sleep 1
 }
@@ -12,7 +12,7 @@ StopWatch{
 ## 詳細說明
 ```ps1
 # 載入函式庫
-irm biy.ly/chg_StopWatch|idx
+irm bit.ly/chg_StopWatch|idx
 
 
 # 建立計時器
